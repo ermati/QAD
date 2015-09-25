@@ -9,66 +9,66 @@
     </message>
     <message>
         <source>Disegna un arco mediante diversi metodi.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diseña un arco mediante diversos métodos</translation>
     </message>
     <message>
         <source>Centro</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <source>Fine</source>
-        <translation type="unfinished"></translation>
+        <translation>Fin</translation>
     </message>
     <message>
         <source>Specificare centro dell&apos;arco: </source>
-        <translation type="unfinished"></translation>
+        <translation>Especificar centro dell&apos;arco: </translation>
     </message>
     <message>
         <source>Specificare punto finale dell&apos;arco: </source>
-        <translation type="unfinished"></translation>
+        <translation>Especificar Punto final dell&apos;arco: </translation>
     </message>
     <message>
         <source>Specificare angolo inscritto: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo inscrito: </translation>
     </message>
     <message>
         <source>Specificare lunghezza della corda: </source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud de la cuerda: </translation>
     </message>
     <message>
         <source>Direzione</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección</translation>
     </message>
     <message>
         <source>Raggio</source>
-        <translation type="unfinished"></translation>
+        <translation>Radio</translation>
     </message>
     <message>
         <source>Specificare direzione tangente per il punto iniziale dell&apos;arco: </source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección de la tangente por el punto inicial dell&apos;arco: </translation>
     </message>
     <message>
         <source>Specificare raggio dell&apos;arco: </source>
-        <translation type="unfinished"></translation>
+        <translation>Radio dell&apos;arco: </translation>
     </message>
     <message>
         <source>Specificare punto iniziale dell&apos;arco: </source>
-        <translation type="unfinished"></translation>
+        <translation>Punto Final dell&apos;arco: </translation>
     </message>
     <message>
         <source>Arco passante per 3 punti</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco por 3 puntos</translation>
     </message>
     <message>
         <source>Arco definito da un punto iniziale, centrale e finale</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco definido por punto inicial, central y final</translation>
     </message>
     <message>
         <source>Arco definito da un punto iniziale, centrale e angolo</source>
-        <translation type="unfinished"></translation>
+        <translation>Arco definido por punto inicial, central y ángulo</translation>
     </message>
     <message>
-        <source>Arco definito da un punto iniziale, centrale e lunghezza corda</source>
+        <source>Arco definito da un punto iniziales, finale e por punto inicial, final y longuitud de cuerda</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
